@@ -1,0 +1,73 @@
+sklad,upravljavec,upravljavec_id,datum,vep,valuta,donos_1d,donos_6m,donos_12m,donos_60m
+Generali Amerika,Generali Investments,generali_investments,2026-10-16,3.49,EUR,-1.91,12.88,14.58,74.72
+Generali Bond,Generali Investments,generali_investments,2026-10-16,17.88,EUR,-0.06,-1.84,-2.87,-9.91
+Generali Corporate Bonds,Generali Investments,generali_investments,2026-10-16,0.99,EUR,0.02,-0.72,-1.48,-0.42
+Generali Galileo,Generali Investments,generali_investments,2026-10-16,17.06,EUR,-0.47,6.62,11.23,31.81
+Generali Globalni,Generali Investments,generali_investments,2026-10-16,15.84,EUR,-0.73,9.49,15.49,52.37
+Generali Indija – Kitajska,Generali Investments,generali_investments,2026-10-16,2.27,EUR,0.08,-5.73,-16.13,-18.16
+Generali Jugovzhodna Evropa,Generali Investments,generali_investments,2026-10-16,8.28,EUR,0.6,11.68,36.78,169.74
+Generali Latinska Amerika,Generali Investments,generali_investments,2026-10-16,2.31,EUR,0.51,7.49,35.9,86.44
+Generali MM,Generali Investments,generali_investments,2026-10-16,57.4,EUR,0.01,0.95,1.72,7.97
+Generali Novi trgi,Generali Investments,generali_investments,2026-10-16,10.33,EUR,-0.55,5.22,13.77,23.08
+Generali Prvi izbor,Generali Investments,generali_investments,2026-10-16,21.47,EUR,-0.64,12.21,19.22,60.78
+Generali Rastko Evropa,Generali Investments,generali_investments,2026-10-16,48.75,EUR,0.34,7.85,16.69,52.45
+Generali Slovenija,Generali Investments,generali_investments,2026-10-16,1.06,EUR,0.25,1.23,,
+Generali Surovine in energija,Generali Investments,generali_investments,2026-10-16,9.98,EUR,1.24,9.36,33.39,85.31
+Generali Tehnologija,Generali Investments,generali_investments,2026-10-16,47.89,EUR,-3.53,14.9,13.02,90.91
+Generali Vitalnost,Generali Investments,generali_investments,2026-10-16,4.14,EUR,-0.73,11.21,10.94,34.11
+"Infond Dividendni, delniški podsklad razvitih trgov",Infond,infond,2026-10-16,13.84,EUR,0.41,11.08,15.29,17.82
+"Infond Družbeno odgovorni, delniški podsklad razvitih trgov",Infond,infond,2026-10-16,71.87,EUR,-1.37,3.51,12.48,33.55
+"Infond Evropa, delniški podsklad",Infond,infond,2026-10-16,8.26,EUR,0.39,5.06,7.73,33.27
+"Infond Globalni defenzivni, mešani podsklad",Infond,infond,2026-10-16,44.78,EUR,-0.26,3.22,2.88,5.62
+"Infond Globalni delniški, delniški podsklad",Infond,infond,2026-10-16,14.26,EUR,-1.43,6.99,16.41,52.75
+"Infond Globalni fleksibilni, mešani fleksibilni podsklad",Infond,infond,2026-10-16,18.08,EUR,-1.21,4.26,9.13,39.44
+"Infond Globalni uravnoteženi, mešani podsklad",Infond,infond,2026-10-16,112.92,EUR,-0.99,4.89,7.64,26.84
+"Infond Kitajska, delniški podsklad",Infond,infond,2026-10-16,11.26,EUR,0.51,-2.81,-7.11,-28.91
+"Infond Kratkoročne obveznice - EUR, obvezniški podsklad",Infond,infond,2026-10-16,12.94,EUR,0.03,0.22,0.3,3.21
+"Infond Megatrendi, delniški podsklad razvitih trgov",Infond,infond,2026-10-16,2.55,EUR,-3.93,0.06,7.24,21.75
+"Infond Naložbeni cilj 2040, podsklad ciljnega datuma",Infond,infond,2026-10-16,19.54,EUR,-0.62,6.88,10.71,37.14
+"Infond Obvezniški - EUR, obvezniški podsklad",Infond,infond,2026-10-16,11.9,EUR,-0.02,-1.59,-2.43,-13.77
+"Infond Razviti trgi, delniški podsklad razvitih trgov",Infond,infond,2026-10-16,24.42,EUR,-1.09,10.99,15.37,47.64
+"Infond Select, delniški podsklad razvitih trgov",Infond,infond,2026-10-16,30.41,EUR,-1.53,11.8,6.54,33.64
+"Infond Surovine in energija, delniški podsklad",Infond,infond,2026-10-16,21.77,EUR,0.87,7.44,41.47,74.85
+"Infond Tehnologija, delniški podsklad",Infond,infond,2026-10-16,215.83,EUR,-3.22,14.56,24.2,113.25
+"Infond Trgi v razvoju, delniški podsklad",Infond,infond,2026-10-16,39.56,EUR,-0.31,4.25,19.73,36.4
+"Infond ZDA, delniški podsklad",Infond,infond,2026-10-16,51.83,EUR,-1.79,12.56,15.31,55.48
+"Infond Zdravstvo, delniški podsklad",Infond,infond,2026-10-16,48.55,EUR,-0.51,17.78,16.2,20.7
+NLB Skladi - Azija delniški,NLB Skladi,nlb_skladi,2026-10-16,28.32,EUR,-0.73,1.23,18.46,59.52
+NLB Skladi - Dinamični razviti trgi delniški,NLB Skladi,nlb_skladi,2026-10-16,19.93,EUR,-0.9,6.24,11.2,48.28
+NLB Skladi - Družbeno odgovorni razviti trgi delniški,NLB Skladi,nlb_skladi,2026-10-16,12.43,EUR,-1.47,13.17,16.94,63.18
+NLB Skladi - Evropa trgi v razvoju delniški,NLB Skladi,nlb_skladi,2026-10-16,3.93,EUR,0.33,7.54,32.86,-25.36
+NLB Skladi - Evropa uravnoteženi,NLB Skladi,nlb_skladi,2026-10-16,34.64,EUR,0.2,2.42,6.81,17.62
+NLB Skladi - Farmacija in zdravstvo delniški,NLB Skladi,nlb_skladi,2026-10-16,13.99,EUR,-0.6,15.42,18.37,15.49
+NLB Skladi - Globalni delniški,NLB Skladi,nlb_skladi,2026-10-16,49.21,EUR,-0.86,7.73,16.63,68.47
+NLB Skladi - Globalni uravnoteženi,NLB Skladi,nlb_skladi,2026-10-16,9.85,EUR,-1.06,1.0,4.91,24.57
+NLB Skladi - Naravni viri delniški,NLB Skladi,nlb_skladi,2026-10-16,7.65,EUR,1.14,6.87,33.32,51.69
+NLB Skladi - Nepremičnine delniški,NLB Skladi,nlb_skladi,2026-10-16,7.03,EUR,0.17,-2.16,2.89,-15.15
+NLB Skladi - Obveznice visokih donosnosti,NLB Skladi,nlb_skladi,2026-10-16,6.77,EUR,-0.31,2.08,2.6,11.6
+NLB Skladi - Podjetniške obveznice EUR,NLB Skladi,nlb_skladi,2026-10-16,6.07,EUR,-0.04,-1.05,-1.63,-3.91
+NLB Skladi - Razvita Evropa delniški,NLB Skladi,nlb_skladi,2026-10-16,11.45,EUR,0.48,8.68,17.64,56.1
+NLB Skladi - Slovenija mešani,NLB Skladi,nlb_skladi,2026-10-16,14.2,EUR,0.53,4.96,21.04,111.49
+NLB Skladi - Svetovni razviti trgi delniški,NLB Skladi,nlb_skladi,2026-10-16,17.41,EUR,-1.21,9.12,10.75,59.48
+NLB Skladi - Trgi v razvoju delniški,NLB Skladi,nlb_skladi,2026-10-16,10.76,EUR,-0.34,5.06,25.44,55.09
+NLB Skladi - Visoka tehnologija delniški,NLB Skladi,nlb_skladi,2026-10-16,47.37,EUR,-3.36,23.22,31.16,141.91
+NLB Skladi - Zahodni Balkan delniški,NLB Skladi,nlb_skladi,2026-10-16,4.91,EUR,0.71,14.13,43.02,145.51
+NLB Skladi - ZDA delniški,NLB Skladi,nlb_skladi,2026-10-16,23.51,EUR,-1.62,13.27,17.14,86.24
+NLB Skladi - Zeleni delniški,NLB Skladi,nlb_skladi,2026-10-16,9.13,EUR,-1.56,10.75,12.09,52.29
+"FT Quant, mešani fleksibilni globalni sklad",OTP Skladi,primorski_skladi,2026-10-19,153.47,EUR,-0.24,1.9,19.16,19.44
+PSP MODRA LINIJA - delniški sklad razvitih trgov,OTP Skladi,primorski_skladi,2026-10-19,3.55,EUR,-0.21,6.44,18.84,61.44
+"PSP OPTIMA - mešani sklad, sklad skladov",OTP Skladi,primorski_skladi,2026-10-19,10.51,EUR,-0.07,3.46,12.12,29.26
+PSP PIKA - mešani defenzivni sklad - Evropa,OTP Skladi,primorski_skladi,2026-10-19,36.74,EUR,-0.19,1.64,5.07,29.59
+PSP ŽIVA - delniški sklad,OTP Skladi,primorski_skladi,2026-10-19,44.46,EUR,0.23,7.21,20.16,53.59
+Triglav Aktivni,Triglav Investments,triglav_skladi,2026-10-16,14.94,EUR,-0.9,9.1,14.06,23.94
+Triglav Evropa,Triglav Investments,triglav_skladi,2026-10-16,24.51,EUR,0.23,6.85,11.48,38.81
+Triglav Obvezniški,Triglav Investments,triglav_skladi,2026-10-16,4.74,EUR,-0.03,-2.48,-4.09,-13.86
+Triglav Okoljska perspektiva,Triglav Investments,triglav_skladi,2026-10-16,18.07,EUR,-2.76,6.89,21.31,26.26
+Triglav Renta,Triglav Investments,triglav_skladi,2026-10-16,21.42,EUR,-0.82,4.44,4.92,17.43
+Triglav Severna Amerika,Triglav Investments,triglav_skladi,2026-10-16,22.68,EUR,-1.93,13.9,18.33,85.85
+Triglav Sklad denarnega trga EUR,Triglav Investments,triglav_skladi,2026-10-16,11.02,EUR,0.01,0.91,1.69,8.1
+Triglav Svetovni razviti trgi,Triglav Investments,triglav_skladi,2026-10-16,13.43,EUR,-1.32,9.08,10.94,42.19
+Triglav Tehnologije prihodnosti,Triglav Investments,triglav_skladi,2026-10-16,25.78,EUR,-2.96,20.36,24.98,89.18
+Triglav Top Brands,Triglav Investments,triglav_skladi,2026-10-16,53.01,EUR,-1.49,17.27,24.76,96.58
+Triglav Trgi v razvoju,Triglav Investments,triglav_skladi,2026-10-16,7.78,EUR,0.36,4.96,21.69,17.95
+Triglav Zdravje in dobro počutje,Triglav Investments,triglav_skladi,2026-10-16,39.31,EUR,-0.51,14.48,15.25,26.51
