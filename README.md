@@ -14,8 +14,8 @@ Potrebuješ Python 3.10 ali novejši.
 
 1. Kloniraj repozitorij in se premakni v njegovo mapo:
    ```bash
-   git clone https://github.com/le20655/vzajemni-skladi.git
-   cd vzajemni-skladi
+   git clone https://github.com/le20655/seminarska_naloga_uvp.git
+   cd seminarska_naloga_uvp
    ```
 2. Ustvari virtualno okolje in namesti knjižnice:
    ```bash
