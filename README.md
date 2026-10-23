@@ -46,6 +46,6 @@ Potrebuješ Python 3.10 ali novejši.
 | `analiza.ipynb` | analiza in grafi |
 | `podatki/skladi.csv` | en sklad na vrstico: upravljalec, VEP ter donosi za 1 dan, 6, 12 in 60 mesecev |
 | `podatki/vep.csv` | zgodovina VEP: sklad, datum, vrednost |
-| `uporaba-ui.md` | opis uporabe umetne inteligence in izpisi pogovorov |
+| `uporaba-ui` | opis uporabe umetne inteligence |
 
 Surove prenesene datoteke (`podatki/surovo/`) niso v repozitoriju, ker jih `main.py` ob zagonu ustvari sam.
